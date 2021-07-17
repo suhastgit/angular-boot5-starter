@@ -1,6 +1,6 @@
 # AngularBoot5Starter
 
-* Includes bootstrap5 and @popperjs/core + Setup of bootstrap nav , footer, containers.
+* Includes Bootstrap5 , @popperjs/core + Setup of Bootstrap nav , footer, containers etc.
 * Uses Angular router.
 * Uses [Saas](https://sass-lang.com) (SCSS) styling.
 * Generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
@@ -8,8 +8,8 @@
 ## Usage
 
 * Checkout code
-* Install dependencies - `npm install`
-* Build and host or start development server to preview.
+* Install dependencies : `npm install`
+* Build and host or [start development server](#development-server) to preview.
 
 ## Code Architecture
 
